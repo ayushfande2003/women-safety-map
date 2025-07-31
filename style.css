@@ -1096,3 +1096,12 @@
         font-size: 14px !important;
     }
 }
+#demo-location-banner {
+  background-color: #ffe8a1;
+  color: #222;
+  font-size: 16px;
+  padding: 10px;
+  text-align: center;
+  font-family: 'Segoe UI', sans-serif;
+  border-bottom: 2px solid #ffcc00;
+}
