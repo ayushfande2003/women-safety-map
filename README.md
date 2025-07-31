@@ -39,8 +39,19 @@ A next-generation safety-first navigation web app that leverages the **Google Ma
   - Orange = Moderate
   - Red = Risky/Dark Areas
 
----
+📍 **Note:** For **demo purposes**, the system assumes your current location is **in Pune**.
 
+---
+## 🧱 Built With
+
+![HTML](https://img.shields.io/badge/HTML-5E5E5E?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript)
+![Google Maps](https://img.shields.io/badge/Google%20Maps-4285F4?style=flat&logo=googlemaps)
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?style=flat&logo=github)
+![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json)
+
+---
 ## 🗺️ Technologies Used
 
 - 🗺️ **Google Maps JavaScript API** (Satellite + Hybrid View)
@@ -65,10 +76,10 @@ All locations are **visually mapped with markers** and are **factored into route
 
 ## 👨‍💻 Team Members
 
-- **Ayush** 
-- **Komal**
-- **Arpita**
-- **Vaishnavi**
+- **Ayush Vitthal Fande** – Full Stack & Map API Logic
+- **Vaishnavi Sanjay Ghuge**– UI & CSS Styling
+- **Komal Anant Puranik**– Safety Research & UX
+- **Arpita Ravindra Kulkarni**– Data Collection & Testing
 
 ---
 
