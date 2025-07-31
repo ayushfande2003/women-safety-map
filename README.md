@@ -85,26 +85,35 @@ Women often **sacrifice safety for speed** while commuting. This project ensures
 ## 📸 Screenshots
 
 1. 🗺️ Home Interface with Map and Safety Mode
-<img width="1919" height="972" alt="image" src="https://github.com/user-attachments/assets/f82456f3-c73a-4895-85f5-1a8547984fb2" />
-<img width="1919" height="969" alt="image" src="https://github.com/user-attachments/assets/70c2c9c5-4039-4ae6-a85c-bea3ab648f59" />
+<img width="1919" height="972" alt="Screenshot 2025-07-30 212358" src="https://github.com/user-attachments/assets/64262ac7-538c-44b7-a168-bd48e647ebd9" />
+
+<img width="1919" height="969" alt="Screenshot 2025-07-30 212420" src="https://github.com/user-attachments/assets/e9c5749e-3df3-47b0-bf21-ee98dae53e1a" />
+
 
 Users can activate Women Safety Mode and interact with the map to find secure walking routes.
 
 
 2. 🟢 Smart Safe Route Suggestions and Route Analysis Panel
-<img width="1919" height="972" alt="image" src="https://github.com/user-attachments/assets/5ab26995-c5be-4302-869d-e268bdc1b6c3" />
-<img width="1919" height="972" alt="image" src="https://github.com/user-attachments/assets/e7a287d2-bc87-45f2-b7bd-f0f9ad456601" />
-<img width="1919" height="970" alt="image" src="https://github.com/user-attachments/assets/7fa9cf13-5f3f-4dc5-a39b-a532e756e139" />
+<img width="1919" height="972" alt="Screenshot 2025-07-30 212625" src="https://github.com/user-attachments/assets/6917137e-3aa7-4d8b-8b81-afd5a11a669e" />
+
+<img width="1919" height="972" alt="Screenshot 2025-07-30 212641" src="https://github.com/user-attachments/assets/75b1b243-210d-4972-bca9-8ac8e2d605d0" />
+
+<img width="1919" height="970" alt="Screenshot 2025-07-30 212657" src="https://github.com/user-attachments/assets/c141c6ed-8eaf-45df-8241-0b9d81c0a152" />
+
 
 Based on real-time safety data, the app calculates 3 alternate routes and color-codes them by safety level.
 Shows a detailed breakdown of safety score, lighting, nearby help zones, and crime risk.
 
 
 3. 🔍 Zone Analysis Panel
-<img width="1919" height="973" alt="image" src="https://github.com/user-attachments/assets/b294b246-05bc-4ded-9c03-fe13b473eee0" />
-<img width="1919" height="971" alt="image" src="https://github.com/user-attachments/assets/94ac5752-601e-4b05-9baf-928f27b3c722" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ceefd609-37a1-4d39-b231-6f6435e98030" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/38875336-4e90-4060-a135-bb372ca7cd09" />
+<img width="1920" height="1080" alt="Screenshot 2025-07-30 212939" src="https://github.com/user-attachments/assets/9bbb86de-6574-44df-b009-494751a82705" />
+
+<img width="1919" height="971" alt="Screenshot 2025-07-30 212841" src="https://github.com/user-attachments/assets/240941c8-dbd3-45b9-af95-998230c0287d" />
+
+<img width="1919" height="973" alt="Screenshot 2025-07-30 212731" src="https://github.com/user-attachments/assets/ca247a10-ab2f-4ba4-8d97-f2968b3289d7" />
+
+<img width="1729" height="869" alt="image" src="https://github.com/user-attachments/assets/641ba35f-1d59-45db-a8cf-2ce1d03aa042" />
+
 Toggle visibility of important safety zones like:
 
 🟦 Police Stations
@@ -119,20 +128,24 @@ Each location is clickable for detailed safety information.
 
 
 4. 🚨 Emergency Alert Modal
-<img width="1919" height="968" alt="image" src="https://github.com/user-attachments/assets/2add1086-4580-4b63-9071-ba73563fc284" />
+<img width="1919" height="968" alt="Screenshot 2025-07-30 213204" src="https://github.com/user-attachments/assets/a773f083-5342-4dbc-8482-5148e92198e4" />
+
 
 Instantly sends your location and starts audio recording for emergencies. Displays local helpline numbers.
 
 
 5. ⭐ Submit Safety Review
-<img width="1919" height="971" alt="image" src="https://github.com/user-attachments/assets/4bd0c78c-2c05-4ae5-a296-9fc82d7db41a" />
+<img width="1919" height="970" alt="Screenshot 2025-07-30 213241" src="https://github.com/user-attachments/assets/e739f831-875e-43a7-bb89-a4ffc53eb87b" />
+
 
 Lets users rate safety, lighting, crowd level, and add comments to crowdsource route safety feedback.
 
 
 6. ⚠️ Incident Reporting Panel
-<img width="1919" height="973" alt="image" src="https://github.com/user-attachments/assets/86450a7c-1353-408b-9cf5-2d0a2828867a" />
-<img width="1919" height="969" alt="image" src="https://github.com/user-attachments/assets/a6cd0296-9005-40b7-919d-b60cfa480c88" />
+<img width="1919" height="973" alt="Screenshot 2025-07-30 213358" src="https://github.com/user-attachments/assets/f3851a8c-45ad-4148-8ade-e37959f5d88c" />
+
+<img width="1919" height="969" alt="Screenshot 2025-07-30 213417" src="https://github.com/user-attachments/assets/41bb175d-85b5-4d48-9e3f-260bbbbf4c83" />
+
 
 Allows users to report incidents (e.g., stalking, poor lighting) to make the system smarter over time.
 
