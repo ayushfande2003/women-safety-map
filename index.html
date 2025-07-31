@@ -31,16 +31,20 @@
         </div>
 
         <div class="tap-instruction" id="tapInstruction">
-            <button class="close-btn" onclick="hideTapInstruction()">×</button>
-            <div class="instruction-icon">👆</div>
-            <h3 style="margin-bottom: 15px; font-size: 24px; font-weight: 700;">Tap Anywhere on Map</h3>
-            <p style="color: rgba(255,255,255,0.9); line-height: 1.6; font-size: 16px;">
-                Simply tap anywhere on the satellite map to set your destination and instantly discover the three safest routes from your current location.
-            </p>
-            <div style="margin-top: 20px; font-size: 14px; color: rgba(255,255,255,0.7); opacity: 0.8;">
-                Or use the search box above for specific addresses
-            </div>
-        </div>
+    <button class="close-btn" onclick="hideTapInstruction()">×</button>
+    <div class="instruction-icon">👆</div>
+    <h3 style="margin-bottom: 15px; font-size: 24px; font-weight: 700;">Tap Anywhere on Map</h3>
+    <p style="color: rgba(255,255,255,0.9); line-height: 1.6; font-size: 16px;">
+        Simply tap anywhere on the satellite map to set your destination and instantly discover the three safest routes from your current location.
+    </p>
+    <div style="margin-top: 10px; font-size: 14px; color: rgba(255,255,255,0.7); opacity: 0.8;">
+        Or use the search box above for specific addresses.
+    </div>
+    <div style="margin-top: 12px; font-size: 14px; color: rgba(255,255,255,0.6); font-style: italic;">
+        📍 <strong>Note:</strong> For demo purposes, your current location is assumed to be in <u>Pune</u>.
+    </div>
+</div>
+
 
         <div class="map-container">
             <div id="map"></div>
@@ -355,6 +359,10 @@
   </div>
 </div>
     </div>
+    <div id="demo-location-banner">
+  📍 <strong>Assuming your current location is somewhere in <u>Pune</u></strong> (for demo purposes)
+</div>
+
 
     <script src="script.js"></script>
         
